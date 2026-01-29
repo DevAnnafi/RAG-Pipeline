@@ -1,0 +1,302 @@
+RESIDENTIAL MORTGAGE LOAN AGREEMENT
+
+Document Number: MTG-2024-789456
+Date: January 15, 2024
+
+PARTIES TO THIS AGREEMENT
+
+LENDER: 
+First National Mortgage Company
+1200 Banking Plaza, Suite 500
+New York, NY 10001
+Federal Tax ID: 12-3456789
+
+BORROWER:
+John Michael Smith
+Sarah Elizabeth Smith
+456 Maple Street
+Springfield, MA 01101
+Social Security Numbers: XXX-XX-1234, XXX-XX-5678
+
+PROPERTY ADDRESS:
+456 Maple Street
+Springfield, Massachusetts 01101
+Legal Description: Lot 23, Block 5, Riverside Heights Subdivision
+Parcel ID: 45-789-1234-00
+
+==============================================================================
+SECTION 1: LOAN TERMS AND CONDITIONS
+==============================================================================
+
+1.1 PRINCIPAL AMOUNT
+The Lender agrees to loan the Borrower the principal sum of THREE HUNDRED FIFTY THOUSAND DOLLARS ($350,000.00).
+
+1.2 INTEREST RATE
+The loan shall bear interest at a fixed annual rate of 6.75% (six point seven five percent). This is a FIXED RATE mortgage and the interest rate will NOT change during the life of the loan.
+
+1.3 LOAN TERM
+The term of this loan is THIRTY (30) YEARS, commencing on February 1, 2024, and ending on February 1, 2054.
+
+1.4 MONTHLY PAYMENT
+Beginning March 1, 2024, the Borrower shall pay the Lender monthly installments of TWO THOUSAND TWO HUNDRED SEVENTY DOLLARS AND SIXTEEN CENTS ($2,270.16), which includes principal and interest.
+
+Payment Amount Breakdown:
+- Principal and Interest: $2,270.16
+- Property Tax Escrow: $425.00
+- Homeowner's Insurance Escrow: $145.00
+- Total Monthly Payment: $2,840.16
+
+1.5 PAYMENT DUE DATE
+Payments are due on the FIRST day of each month. A grace period of 15 days is provided. Payments received after the 16th day of the month will incur a late fee of 5% of the payment amount or $50.00, whichever is greater.
+
+1.6 PREPAYMENT
+The Borrower may prepay the loan in full or in part at any time without penalty. Prepayments will be applied first to accrued interest, then to principal.
+
+==============================================================================
+SECTION 2: PROPERTY AND COLLATERAL
+==============================================================================
+
+2.1 SECURITY INTEREST
+This loan is secured by a first mortgage lien on the property located at 456 Maple Street, Springfield, MA 01101. The property includes the land, all buildings, fixtures, and improvements now or hereafter erected on the property.
+
+2.2 PROPERTY INSURANCE
+The Borrower must maintain hazard insurance on the property in an amount not less than the outstanding loan balance or the full replacement value of the improvements, whichever is greater. The insurance policy must name the Lender as mortgagee and loss payee.
+
+Required Coverage:
+- Fire and extended coverage
+- Liability coverage (minimum $300,000)
+- Flood insurance (if in flood zone)
+
+2.3 PROPERTY TAXES
+The Borrower must pay all property taxes and assessments when due. The Lender will maintain an escrow account for property taxes. Current annual property tax is estimated at $5,100.00.
+
+2.4 MAINTENANCE AND REPAIRS
+The Borrower must maintain the property in good condition and make all necessary repairs. The property must not be abandoned or left vacant for more than 60 consecutive days without notifying the Lender.
+
+==============================================================================
+SECTION 3: BORROWER OBLIGATIONS AND COVENANTS
+==============================================================================
+
+3.1 OCCUPANCY REQUIREMENT
+The Borrower agrees to occupy the property as their principal residence within 60 days of closing and to continue to occupy the property for at least one year unless the Lender agrees otherwise in writing.
+
+3.2 TRANSFER OF PROPERTY
+The Borrower may not sell, transfer, or assign any interest in the property without the Lender's prior written consent. Any such transfer without consent may result in acceleration of the loan balance due and payable in full.
+
+3.3 PROHIBITION AGAINST ENCUMBRANCES
+The Borrower may not create additional liens or encumbrances on the property without the Lender's written consent, except for subordinate liens for improvements approved by the Lender.
+
+3.4 HOMEOWNERS ASSOCIATION
+If the property is subject to a homeowners association, the Borrower must pay all HOA fees and comply with all association rules and regulations. Current HOA fee: $85.00 per month.
+
+==============================================================================
+SECTION 4: ESCROW ACCOUNT PROVISIONS
+==============================================================================
+
+4.1 ESCROW DEPOSITS
+The Lender will establish an escrow account for payment of property taxes and insurance premiums. The Borrower's monthly payment includes deposits to this account.
+
+Initial Escrow Deposit at Closing: $1,710.00
+Monthly Escrow Payment: $570.00 ($425 taxes + $145 insurance)
+
+4.2 ESCROW ANALYSIS
+The Lender will perform an annual escrow analysis. If there is a shortage, the Borrower's monthly payment may increase. If there is a surplus exceeding $50.00, the Lender will refund the excess.
+
+==============================================================================
+SECTION 5: DEFAULT AND REMEDIES
+==============================================================================
+
+5.1 EVENTS OF DEFAULT
+The Borrower will be in default if any of the following occur:
+(a) Failure to make any payment when due
+(b) Failure to maintain required insurance
+(c) Failure to pay property taxes
+(d) Transfer of property without Lender consent
+(e) Declaration of bankruptcy
+(f) Property abandonment or significant damage
+
+5.2 ACCELERATION CLAUSE
+If the Borrower defaults, the Lender may declare the entire unpaid principal balance, accrued interest, and other charges immediately due and payable.
+
+5.3 FORECLOSURE
+Upon default and after providing required notices, the Lender may foreclose on the property through judicial or non-judicial proceedings as permitted by state law. The Borrower will be responsible for all costs of foreclosure including reasonable attorney's fees.
+
+5.4 RIGHT TO CURE
+The Borrower has thirty (30) days after receiving notice of default to cure the default before the Lender may accelerate the loan or begin foreclosure proceedings.
+
+==============================================================================
+SECTION 6: ADDITIONAL PROVISIONS
+==============================================================================
+
+6.1 PRIVATE MORTGAGE INSURANCE (PMI)
+Because the loan-to-value ratio exceeds 80%, the Borrower must maintain private mortgage insurance until the principal balance is reduced to 78% of the original property value or the current appraised value, whichever is less.
+
+PMI Premium: $175.00 per month (included in total monthly payment)
+PMI will automatically terminate when loan balance reaches 78% LTV
+
+6.2 LOAN ORIGINATION COSTS
+Loan Origination Fee: $3,500.00
+Appraisal Fee: $650.00
+Credit Report Fee: $75.00
+Title Insurance: $1,850.00
+Recording Fees: $325.00
+Attorney Fees: $950.00
+Total Closing Costs: $7,350.00
+
+6.3 ANNUAL PERCENTAGE RATE (APR)
+The Annual Percentage Rate for this loan is 6.95%, which includes the interest rate and certain loan costs spread over the loan term.
+
+6.4 ASSUMPTION
+This loan is NOT assumable. If the property is sold or transferred, the full loan balance must be paid.
+
+6.5 SUBORDINATE FINANCING
+The Borrower obtained a second mortgage from Springfield Community Credit Union in the amount of $25,000.00 at 7.25% interest for 10 years. This subordinate lien is acknowledged and permitted.
+
+==============================================================================
+SECTION 7: BORROWER'S RIGHT TO INFORMATION
+==============================================================================
+
+7.1 ANNUAL STATEMENTS
+The Lender will provide annual statements showing:
+- Principal balance
+- Interest paid during the year
+- Escrow account activity
+- Remaining loan term
+
+7.2 PAYOFF INFORMATION
+The Borrower may request a payoff statement at any time. The Lender will provide this within 7 business days.
+
+==============================================================================
+SECTION 8: NOTICES AND COMMUNICATIONS
+==============================================================================
+
+8.1 NOTICE REQUIREMENTS
+All notices must be in writing and sent via certified mail to:
+
+Borrower:
+John and Sarah Smith
+456 Maple Street
+Springfield, MA 01101
+
+Lender:
+First National Mortgage Company
+Loan Servicing Department
+1200 Banking Plaza, Suite 500
+New York, NY 10001
+
+8.2 CHANGE OF ADDRESS
+The Borrower must notify the Lender in writing within 30 days of any change of address.
+
+==============================================================================
+SECTION 9: GENERAL PROVISIONS
+==============================================================================
+
+9.1 GOVERNING LAW
+This agreement is governed by the laws of the Commonwealth of Massachusetts and federal law.
+
+9.2 SEVERABILITY
+If any provision of this agreement is found to be unenforceable, the remaining provisions will remain in full force and effect.
+
+9.3 WAIVER
+The Lender's failure to enforce any provision does not constitute a waiver of that provision or any other provision.
+
+9.4 ENTIRE AGREEMENT
+This document, together with the Promissory Note, Deed of Trust, and Closing Disclosure, constitutes the entire agreement between the parties.
+
+9.5 MODIFICATION
+This agreement may only be modified by written instrument signed by both parties.
+
+==============================================================================
+SECTION 10: SPECIAL CLAUSES
+==============================================================================
+
+10.1 ENERGY EFFICIENCY REQUIREMENTS
+The property must maintain minimum energy efficiency standards as required by state law. Energy audit completed on December 10, 2023, showing compliance.
+
+10.2 LEAD PAINT DISCLOSURE
+Built in 1998, this property is not subject to lead paint disclosure requirements (applies only to homes built before 1978).
+
+10.3 FLOOD ZONE STATUS
+Property is located in Zone X (minimal flood risk) per FEMA Flood Map 250045 0125C, dated August 2022. Flood insurance is not required but recommended.
+
+==============================================================================
+LOAN SUMMARY
+==============================================================================
+
+Property Value: $400,000.00
+Down Payment: $50,000.00 (12.5%)
+First Mortgage Amount: $350,000.00
+Second Mortgage Amount: $25,000.00
+Loan-to-Value Ratio: 87.5%
+Combined Loan-to-Value: 93.75%
+
+Estimated Closing Date: January 31, 2024
+First Payment Due: March 1, 2024
+Final Payment Due: February 1, 2054
+Total Number of Payments: 360
+
+Total Interest Over Life of Loan: $467,257.60
+Total Amount Repaid: $817,257.60
+
+==============================================================================
+IMPORTANT BORROWER DISCLOSURES
+==============================================================================
+
+ACKNOWLEDGE RECEIPT OF:
+☑ Good Faith Estimate
+☑ Truth in Lending Disclosure
+☑ Closing Disclosure (3 days before closing)
+☑ Home Loan Toolkit
+☑ Servicing Disclosure Statement
+☑ Affiliated Business Arrangement Disclosure
+☑ Special Information Booklet on Settlement Costs
+
+BORROWER CERTIFICATIONS:
+I/We certify that:
+- All information provided in the loan application is true and complete
+- I/We intend to occupy the property as our primary residence
+- I/We understand the terms of this mortgage agreement
+- I/We have received and reviewed all required disclosures
+- I/We understand our obligation to make monthly payments
+- I/We understand the consequences of default
+
+==============================================================================
+SIGNATURES
+==============================================================================
+
+BORROWER:
+
+_________________________________    Date: January 15, 2024
+John Michael Smith
+
+_________________________________    Date: January 15, 2024
+Sarah Elizabeth Smith
+
+
+LENDER:
+
+_________________________________    Date: January 15, 2024
+Robert Williams, Loan Officer
+First National Mortgage Company
+
+
+WITNESS:
+
+_________________________________    Date: January 15, 2024
+Jennifer Martinez, Notary Public
+Commission Expires: December 31, 2026
+Notary Seal: [SEAL]
+
+==============================================================================
+END OF MORTGAGE AGREEMENT
+==============================================================================
+
+This document contains 10 pages and constitutes the complete Residential Mortgage Loan Agreement between the parties. Additional documents including the Promissory Note, Deed of Trust, Title Insurance Policy, and Closing Disclosure are incorporated by reference.
+
+For questions or concerns, contact:
+First National Mortgage Company
+Customer Service: 1-800-555-LOAN
+Website: www.firstnationalmortgage.com
+Email: customerservice@firstnationalmortgage.com
+
+CONFIDENTIAL - FOR USE BY AUTHORIZED PARTIES ONLY
