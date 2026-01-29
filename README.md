@@ -508,6 +508,4 @@ If you're new to RAG or want to learn more:
 
 *Making document intelligence accessible to everyone*
 
-[⬆ Back to Top](#-document-intelligence-rag-pipeline)
-
 </div>
